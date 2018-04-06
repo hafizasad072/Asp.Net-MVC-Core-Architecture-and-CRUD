@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=.\SQL2012;Database=AngularCRUDTest;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models  

@@ -1,0 +1,9 @@
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\bin\Debug\netstandard2.0\DB.Core.deps.json
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\bin\Debug\netstandard2.0\DB.Core.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\bin\Debug\netstandard2.0\DB.Core.pdb
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.csprojResolveAssemblyReference.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.csproj.CoreCompileInputs.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.AssemblyInfoInputs.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.AssemblyInfo.cs
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.pdb

@@ -1,0 +1,14 @@
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.deps.json
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.runtimeconfig.json
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.runtimeconfig.dev.json
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.pdb
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.csproj.CoreCompileInputs.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.AssemblyInfoInputs.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.AssemblyInfo.cs
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.pdb
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\DB.Core.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\DB.Core.pdb
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.csprojResolveAssemblyReference.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC-CoreWithEF-Core.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\bin\Debug\netstandard2.0\BO.deps.json
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\bin\Debug\netstandard2.0\BO.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\bin\Debug\netstandard2.0\BO.pdb
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\obj\Debug\netstandard2.0\BO.csprojResolveAssemblyReference.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\obj\Debug\netstandard2.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\obj\Debug\netstandard2.0\BO.AssemblyInfoInputs.cache
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\obj\Debug\netstandard2.0\BO.AssemblyInfo.cs
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\obj\Debug\netstandard2.0\BO.dll
+C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\BO\obj\Debug\netstandard2.0\BO.pdb
