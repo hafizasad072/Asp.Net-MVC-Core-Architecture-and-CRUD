@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\Util\\Util.csproj",
+      "projectUniqueName": "D:\\MVC-CoreWithEF-Core\\Util\\Util.csproj",
       "projectName": "Util",
-      "projectPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\Util\\Util.csproj",
+      "projectPath": "D:\\MVC-CoreWithEF-Core\\Util\\Util.csproj",
       "packagesPath": "C:\\Users\\asad.muhammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\Util\\obj\\",
+      "outputPath": "D:\\MVC-CoreWithEF-Core\\Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

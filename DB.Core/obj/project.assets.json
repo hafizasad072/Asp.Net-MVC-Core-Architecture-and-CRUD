@@ -3054,11 +3054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\DB.Core\\DB.Core.csproj",
+      "projectUniqueName": "D:\\MVC-CoreWithEF-Core\\DB.Core\\DB.Core.csproj",
       "projectName": "DB.Core",
-      "projectPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\DB.Core\\DB.Core.csproj",
+      "projectPath": "D:\\MVC-CoreWithEF-Core\\DB.Core\\DB.Core.csproj",
       "packagesPath": "C:\\Users\\asad.muhammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\DB.Core\\obj\\",
+      "outputPath": "D:\\MVC-CoreWithEF-Core\\DB.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

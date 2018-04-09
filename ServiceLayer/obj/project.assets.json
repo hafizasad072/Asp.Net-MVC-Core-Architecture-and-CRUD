@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "D:\\MVC-CoreWithEF-Core\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\ServiceLayer\\ServiceLayer.csproj",
+      "projectPath": "D:\\MVC-CoreWithEF-Core\\ServiceLayer\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\asad.muhammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\ServiceLayer\\obj\\",
+      "outputPath": "D:\\MVC-CoreWithEF-Core\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

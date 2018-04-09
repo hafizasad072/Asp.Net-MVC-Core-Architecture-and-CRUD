@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\BO\\BO.csproj",
+      "projectUniqueName": "D:\\MVC-CoreWithEF-Core\\BO\\BO.csproj",
       "projectName": "BO",
-      "projectPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\BO\\BO.csproj",
+      "projectPath": "D:\\MVC-CoreWithEF-Core\\BO\\BO.csproj",
       "packagesPath": "C:\\Users\\asad.muhammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asad.muhammad\\Documents\\Visual Studio 2017\\Projects\\MVC-CoreWithEF-Core\\BO\\obj\\",
+      "outputPath": "D:\\MVC-CoreWithEF-Core\\BO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
