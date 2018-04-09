@@ -7,16 +7,23 @@ using DB.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 using MVC_CoreWithEF_Core.Models;
 using MVCCoreWithEFCore.ExtensionMethods;
+using ServiceLayer.Employee;
 
 namespace MVC_CoreWithEF_Core.Controllers
 {
     public class HomeController : Controller
     {
+        private IEmployeeService _employeeService { get; set; }
+        public HomeController(IEmployeeService employeeService)
+        {
+            _employeeService = employeeService;
+        }
         public IActionResult Index()
         {
-            MVCEFCoreContext db = new MVCEFCoreContext();
-            HttpContext.Session.GetObject<dynamic>("CurrentUser");
-            return Json(db.Employees.ToList());
+            _employeeService.AddEmployee(null);
+            //MVCEFCoreContext db = new MVCEFCoreContext();
+            //HttpContext.Session.GetObject<dynamic>("CurrentUser");
+            return View();//Json(db.Employees.ToList());
         }
 
         public IActionResult About()

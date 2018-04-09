@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DB.Core\DB.Core.csproj" />
+    <ProjectReference Include="..\ServiceLayer\ServiceLayer.csproj" />
   </ItemGroup>
 
 </Project>
