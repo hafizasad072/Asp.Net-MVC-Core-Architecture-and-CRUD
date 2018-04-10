@@ -1,0 +1,48 @@
+﻿@model BO.HelperModel.HMEmployee
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>HMEmployee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmpName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpAge)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmpAge)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpCity)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmpCity)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpCountry)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmpCountry)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

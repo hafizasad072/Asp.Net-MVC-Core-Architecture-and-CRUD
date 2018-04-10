@@ -1,0 +1,49 @@
+﻿@model BO.HelperModel.HMEmployee
+
+@{
+    ViewData["Title"] = "AddEmployee";
+}
+
+<h2>AddEmployee</h2>
+
+<h4>HMEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddEmployee">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="EmpName" class="control-label"></label>
+                <input asp-for="EmpName" class="form-control" />
+                <span asp-validation-for="EmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpAge" class="control-label"></label>
+                <input asp-for="EmpAge" class="form-control" />
+                <span asp-validation-for="EmpAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpCity" class="control-label"></label>
+                <input asp-for="EmpCity" class="form-control" />
+                <span asp-validation-for="EmpCity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpCountry" class="control-label"></label>
+                <input asp-for="EmpCountry" class="form-control" />
+                <span asp-validation-for="EmpCountry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

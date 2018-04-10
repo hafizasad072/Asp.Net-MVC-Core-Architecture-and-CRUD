@@ -13,14 +13,14 @@ namespace MVC_CoreWithEF_Core.Controllers
 {
     public class HomeController : Controller
     {
-        private IEmployeeService _employeeService { get; set; }
-        public HomeController(IEmployeeService employeeService)
-        {
-            _employeeService = employeeService;
-        }
+        //private IEmployeeService _employeeService { get; set; }
+        //public HomeController(IEmployeeService employeeService)
+        //{
+        //    _employeeService = employeeService;
+        //}
         public IActionResult Index()
         {
-            _employeeService.AddEmployee(null);
+            //_employeeService.AddEmployee(null);
             //MVCEFCoreContext db = new MVCEFCoreContext();
             //HttpContext.Session.GetObject<dynamic>("CurrentUser");
             return View();//Json(db.Employees.ToList());

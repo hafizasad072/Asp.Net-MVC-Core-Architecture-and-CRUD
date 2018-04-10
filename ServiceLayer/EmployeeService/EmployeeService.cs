@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using BO.HelperModel;
+using DB.Core.Models;
 using ServiceLayer.UnitOfWork;
+using Util;
 
 namespace ServiceLayer.Employee
 {
@@ -17,12 +19,7 @@ namespace ServiceLayer.Employee
 
         public int AddEmployee(HMEmployee Emp)
         {
-            DB.Core.Models.Employees e = new DB.Core.Models.Employees();
-            e.EmpAge = 12;
-            e.EmpCity = "LHR";
-            e.EmpCountry = "Pak";
-            e.EmpName = "Temp";
-
+            Employees e = CoreMapper.MapObject<HMEmployee, Employees>(Emp);
             _uow.EmployeeRepo.Insert(e);
             _uow.Commit();
             return Convert.ToInt32(e.StudentId);
