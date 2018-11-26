@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DataLayer.Employee;
 using DB.Core.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -9,6 +10,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MVCCoreWithEFCore.ExtensionMethods;
+using ServiceLayer.Employee;
+using ServiceLayer.UnitOfWork;
 
 namespace MVC_CoreWithEF_Core
 {
@@ -25,6 +28,10 @@ namespace MVC_CoreWithEF_Core
         {
 
             services.AddDbContext<MVCEFCoreContext>();
+            services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IUnitOfWorkService, UnitOfWorkService>();
+            //services.AddScoped<IEmployeeRepo, EmployeeRepo>();
+
             services.AddSession(opt => opt.IdleTimeout = TimeSpan.FromMinutes(30));
       //          opts =>
       //opts.UseSqlServer(Configuration["DefaultConnection:MVCEFCoreContext"]));
