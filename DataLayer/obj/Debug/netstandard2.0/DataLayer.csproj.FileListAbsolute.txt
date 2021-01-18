@@ -7,3 +7,14 @@ C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Clients\LAExport-ERP\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Clients\LAExport-ERP\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Clients\LAExport-ERP\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Clients\LAExport-ERP\DataLayer\bin\Debug\netstandard2.0\DBCoreLayer.dll
+C:\Clients\LAExport-ERP\DataLayer\bin\Debug\netstandard2.0\DBCoreLayer.pdb
+C:\Clients\LAExport-ERP\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Clients\LAExport-ERP\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Clients\LAExport-ERP\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Clients\LAExport-ERP\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
+C:\Clients\LAExport-ERP\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Clients\LAExport-ERP\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb

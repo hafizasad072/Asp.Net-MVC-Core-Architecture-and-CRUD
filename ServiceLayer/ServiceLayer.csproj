@@ -5,9 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BO\BO.csproj" />
     <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
-    <ProjectReference Include="..\DB.Core\DB.Core.csproj" />
+    <ProjectReference Include="..\DB.Core\DBCoreLayer.csproj" />
     <ProjectReference Include="..\Util\Util.csproj" />
   </ItemGroup>
 

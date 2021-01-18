@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using BO.HelperModel;
-using DB.Core.Models;
+using DBCoreLayer.Models;
+using ServiceLayer.HelperModel;
 using ServiceLayer.UnitOfWork;
 using Util;
 

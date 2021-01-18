@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DataLayer.EmployeeRepo;
-using DB.Core.Models;
+using DBCoreLayer.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +29,7 @@ namespace MVC_CoreWithEF_Core
 
             services.AddDbContext<MVCEFCoreContext>();
             services.AddSession(opt => opt.IdleTimeout = TimeSpan.FromMinutes(30));
+
             #region Inversion of Control(DI)
 
             services.AddScoped<IEmployeeService, EmployeeService>();

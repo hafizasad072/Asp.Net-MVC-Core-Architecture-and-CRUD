@@ -7,3 +7,18 @@ C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfo.cs
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.dll
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.pdb
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.deps.json
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.dll
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.pdb
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\DBCoreLayer.dll
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\Util.dll
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\DBCoreLayer.pdb
+C:\Clients\LAExport-ERP\ServiceLayer\bin\Debug\netstandard2.0\Util.pdb
+C:\Clients\LAExport-ERP\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csprojAssemblyReference.cache
+C:\Clients\LAExport-ERP\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Clients\LAExport-ERP\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfo.cs
+C:\Clients\LAExport-ERP\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CopyComplete
+C:\Clients\LAExport-ERP\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.dll
+C:\Clients\LAExport-ERP\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.pdb

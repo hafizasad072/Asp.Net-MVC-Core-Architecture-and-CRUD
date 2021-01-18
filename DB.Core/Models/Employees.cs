@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DB.Core.Models
+namespace DBCoreLayer.Models
 {
     public partial class Employees
     {

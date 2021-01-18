@@ -6,3 +6,11 @@ C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\Util\obj\Debug\netstandard2.0\Util.AssemblyInfo.cs
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\Util\obj\Debug\netstandard2.0\Util.dll
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\Util\obj\Debug\netstandard2.0\Util.pdb
+C:\Clients\LAExport-ERP\Util\bin\Debug\netstandard2.0\Util.deps.json
+C:\Clients\LAExport-ERP\Util\bin\Debug\netstandard2.0\Util.dll
+C:\Clients\LAExport-ERP\Util\bin\Debug\netstandard2.0\Util.pdb
+C:\Clients\LAExport-ERP\Util\obj\Debug\netstandard2.0\Util.AssemblyInfoInputs.cache
+C:\Clients\LAExport-ERP\Util\obj\Debug\netstandard2.0\Util.AssemblyInfo.cs
+C:\Clients\LAExport-ERP\Util\obj\Debug\netstandard2.0\Util.dll
+C:\Clients\LAExport-ERP\Util\obj\Debug\netstandard2.0\Util.pdb
+C:\Clients\LAExport-ERP\Util\obj\Debug\netstandard2.0\Util.csprojAssemblyReference.cache

@@ -12,3 +12,26 @@ C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.csproj.CopyComplete
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.dll
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.pdb
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.deps.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.runtimeconfig.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.runtimeconfig.dev.json
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.dll
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.pdb
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\DBCoreLayer.dll
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\ServiceLayer.dll
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\Util.dll
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\DBCoreLayer.pdb
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\ServiceLayer.pdb
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\Util.pdb
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.csprojAssemblyReference.cache
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.AssemblyInfoInputs.cache
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.AssemblyInfo.cs
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.csproj.CopyComplete
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.dll
+C:\Clients\LAExport-ERP\MVC-CoreWithEF-Core\obj\Debug\netcoreapp2.0\MVC_CoreWithEF_Core.pdb

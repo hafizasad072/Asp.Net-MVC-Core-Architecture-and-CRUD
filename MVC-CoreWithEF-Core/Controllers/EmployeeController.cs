@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BO.HelperModel;
+using ServiceLayer.HelperModel;
 using Microsoft.AspNetCore.Mvc;
 using ServiceLayer.Employee;
 

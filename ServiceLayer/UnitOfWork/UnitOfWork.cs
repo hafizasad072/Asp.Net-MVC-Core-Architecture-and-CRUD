@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using DataLayer.EmployeeRepo;
-using DB.Core.Models;
+using DBCoreLayer.Models;
 using ServiceLayer.Employee;
 
 namespace ServiceLayer.UnitOfWork

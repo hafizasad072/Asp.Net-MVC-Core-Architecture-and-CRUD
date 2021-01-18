@@ -1,5 +1,5 @@
 ﻿using DataLayer.GenericRepository;
-using DB.Core.Models;
+using DBCoreLayer.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;

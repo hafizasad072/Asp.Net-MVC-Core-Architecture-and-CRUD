@@ -7,3 +7,10 @@ C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.AssemblyInfo.cs
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.dll
 C:\Users\asad.muhammad\Documents\Visual Studio 2017\Projects\MVC-CoreWithEF-Core\DB.Core\obj\Debug\netstandard2.0\DB.Core.pdb
+C:\Clients\LAExport-ERP\DB.Core\bin\Debug\netstandard2.0\DB.Core.deps.json
+C:\Clients\LAExport-ERP\DB.Core\bin\Debug\netstandard2.0\DB.Core.dll
+C:\Clients\LAExport-ERP\DB.Core\bin\Debug\netstandard2.0\DB.Core.pdb
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DB.Core.AssemblyInfoInputs.cache
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DB.Core.AssemblyInfo.cs
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DB.Core.dll
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DB.Core.pdb

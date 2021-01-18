@@ -1,0 +1,8 @@
+C:\Clients\LAExport-ERP\DB.Core\bin\Debug\netstandard2.0\DBCoreLayer.deps.json
+C:\Clients\LAExport-ERP\DB.Core\bin\Debug\netstandard2.0\DBCoreLayer.dll
+C:\Clients\LAExport-ERP\DB.Core\bin\Debug\netstandard2.0\DBCoreLayer.pdb
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DBCoreLayer.AssemblyInfoInputs.cache
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DBCoreLayer.AssemblyInfo.cs
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DBCoreLayer.dll
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DBCoreLayer.pdb
+C:\Clients\LAExport-ERP\DB.Core\obj\Debug\netstandard2.0\DBCoreLayer.csprojAssemblyReference.cache
